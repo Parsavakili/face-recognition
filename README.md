@@ -30,7 +30,7 @@ Ensure you have Python installed. Recommended: Python 3.7+
 
 ### Install Dependencies
 ```bash
-pip install opencv-python face_recognition numpy
+pip install -r requirements.txt
 ```
 
 ### Clone This Repository
