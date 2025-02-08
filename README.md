@@ -65,7 +65,8 @@ python face_recognition.py
 ## 🎨 Preview
 🚀 **Live Face Recognition in Action**
 
-![Demo](https://yourdemoimageurl.com)
+![image](https://github.com/user-attachments/assets/d572a98c-907c-4e85-8f0a-f109d3681e93)
+
 
 ---
 
