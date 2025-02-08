@@ -36,7 +36,7 @@ pip install opencv-python face_recognition numpy
 ### Clone This Repository
 ```bash
 git clone https://github.com/Parsavakili/face-recognition.git
-cd face-recognition-system
+cd face-recognition
 ```
 
 ### Run the Program
@@ -65,8 +65,7 @@ python face_recognition.py
 ## 🎨 Preview
 🚀 **Live Face Recognition in Action**
 
-![image](https://github.com/user-attachments/assets/bacd055b-76ab-4288-b316-0f26dd928f79)
-
+![Demo](https://yourdemoimageurl.com)
 
 ---
 
@@ -86,4 +85,7 @@ Developed by **Your Name**
 ### ⚡ Inspired by OpenCV & Face_recognition Library
 
 **📌 Star this repository if you find it useful! ⭐**
+
+### 🔗 GitHub Repository
+[🔗 Face Recognition GitHub](https://github.com/Parsavakili/face-recognition)
 
