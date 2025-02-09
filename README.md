@@ -81,7 +81,7 @@ Feel free to contribute by submitting pull requests or raising issues! 🚀
 ---
 
 ## 💡 Credits
-Developed by **Your Name**
+Developed by **Parsa Vakili**
 
 ### ⚡ Inspired by OpenCV & Face_recognition Library
 
